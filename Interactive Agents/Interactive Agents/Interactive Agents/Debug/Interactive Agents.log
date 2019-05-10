@@ -1,0 +1,90 @@
+﻿  pch.cpp
+  Agent.cpp
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\agent.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ai-Interactive-Agents.cpp
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\ai-interactive-agents.cpp(52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\ai-interactive-agents.cpp(53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\ai-interactive-agents.cpp(54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map.cpp
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(18): error C2440: '=': cannot convert from 'Node' to 'Node *'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(18): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(36): error C2275: 'Node': illegal use of this type as an expression
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(6): note: see declaration of 'Node'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(38): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(39): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(40): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(46): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(46): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(47): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(48): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(49): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(53): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(53): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(54): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(55): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(56): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(57): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(58): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(65): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(65): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(66): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(67): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(68): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(72): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(72): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(73): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(74): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(75): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(76): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(77): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(84): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(84): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(85): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(86): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(87): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(91): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(91): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(92): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(93): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(94): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(95): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(96): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(101): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(101): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(102): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(103): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(104): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(105): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(106): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(110): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Node *' (or there is no acceptable conversion)
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\node.h(17): note: could be 'Node &Node::operator =(const Node &)'
+  c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(110): note: while trying to match the argument list '(Node, Node *)'
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(111): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(112): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(113): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(114): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(115): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(116): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(117): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\rhukz\desktop\interactive-agents-petrut123-master\ai-interactive-agents\ai-interactive-agents\map.cpp(118): error C2676: binary '[': 'Node' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Node.cpp
+  Generating Code...
